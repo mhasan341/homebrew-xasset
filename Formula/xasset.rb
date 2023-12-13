@@ -14,6 +14,6 @@ class Xasset < Formula
   end
 
   test do
-      system "#{bin}/xlist", "--version"
+      system "#{bin}/xasset", "--version"
   end
 end
