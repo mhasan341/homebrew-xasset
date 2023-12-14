@@ -11,6 +11,7 @@ Or `brew tap mhasan341/xasset` and then `brew install xasset`.
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
 
 ### Usage
+Navigate to your project folder where you Assets.xcassets is located, (I'll fix it in later version) and then use the following commands
 
 ## List Folders
 ```bash
